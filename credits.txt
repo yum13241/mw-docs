@@ -33,6 +33,7 @@ Auto Shotgun: WildWeasel tutorial, modified by me. (Where it all started).
 Other Weapon Defs: ZDoom wiki.
 Eon Weapons RC8.1 created by Ru5tK1ng for parts of melee weapons and for the chaingun fire code to make the new animation smoother and some railgun stuff as well.
 The author of the Doom 64 Retribution TC for the Unmaker.
+Ac!d for making the railgun mode switching not suck.
 
 
 ENFORCER WEAPON (text below was taken from Realm667)
@@ -51,6 +52,7 @@ Idea Base: Enforcer from Unreal Tournament.
 
 Eon Weapons RC8.1 created by Ru5tK1ng for the cool Chaingun and railgun sprites. Including the railgun rail.
 Doom 64 for the HBF sprites. (it's just the Doom 64 BFG sprites lol)
+Doom 64 for the Unmaker sprites, me (yum13241) for the recolors.
 
 
 [FONTS]
