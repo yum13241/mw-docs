@@ -1,4 +1,15 @@
+// https://github.com/yum13241/mw-docs is more up2date.
+
+
 This is the changelog. The newest changes are at the TOP.
+
+v1.8
+
+Added actual quickswitching for the SSG and SG, made the RL's Grenades more accurate, and some other stuff.
+
+v1.7 
+
+Added bad SSG quickswitching and the SG can fire explosive rounds with the alt fire.
 
 v1.6
 
