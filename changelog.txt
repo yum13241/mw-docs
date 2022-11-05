@@ -5,7 +5,7 @@ This is the changelog. The newest changes are at the TOP.
 
 v1.8
 
-Added actual quickswitching for the SSG and SG, made the RL's Grenades more accurate, and some other stuff.
+Added actual quickswitching for the SSG and SG, made the RL's Grenades more accurate, new Enforcer sound effect, fixed the Fist sound not playing (wasn't there since like the first build lol), making the SG explosive rounds actually good, and some other QoL improvements.
 
 v1.7 
 
