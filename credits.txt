@@ -22,6 +22,7 @@ dsplasma.wav and dsrail taken from Eon Weapons RC8.1 created by Ru5tK1ng.
 railon.wav is taken from Brutal Doom Platinum, but it's in Brutal Doom by SGTMARKIV as well.
 Doom 64 for hbfattack.ogg.
 Doom 64 for DSLASER.
+AssaultCube for usp.ogg.
 
 
 [CODE]
